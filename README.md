@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am curretly a third year doctoral candidate at IIIT Delhi working at the intersection of Information Retrieval and NLP for Edtech applications. The broad vision is to solve problems that aid academicians in curating new content seamlessly and in parallel deliver personalzied content to the students.
+I am currently a third year doctoral candidate at IIIT Delhi working at the intersection of Information Retrieval and NLP for Edtech applications. The broad vision is to solve problems that aid academicians in curating new content seamlessly and in parallel deliver personalzied content to the students.
 
-I was also a full stack dev at Mr.Cooper where I worked on ReactJs (frontend), nodeJS, Spring Boot and .NET Core to build micro services for motrgage applications. 
+I was also a full stack dev at Mr.Cooper where I worked on ReactJs (frontend), nodeJS, Spring Boot and .NET Core to build micro services for mortgage applications. 
 
 I also volunteer at Chennai tri-color where we work closely with NGOs and the corporation for building tools that aid the general public.
 
