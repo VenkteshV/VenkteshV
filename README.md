@@ -22,4 +22,4 @@ I was also a full stack dev at Mr.Cooper where I worked on ReactJs (frontend), n
 I also volunteer at Chennai tri-color where we work closely with NGOs and the corporation for building tools that aid the general public.
 
 I love talking about technology in general, theoretical DL and philosophy.
-📫 How to reach me: venkteshv@iiitd.ac.in or https://twitter.com/justice1996V
+📫 How to reach me: venkteshv@iiitd.ac.in or https://twitter.com/vvenki22
